@@ -1,0 +1,28 @@
+#container {
+    height: 100vh;
+    width: 100vw;
+}
+
+
+ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 15px;
+}
+
+#searchbar {
+    display: block;
+}
+
+footer{
+    position: fixed;
+    bottom: 5%;
+}
+
+#footerleft {
+    float: left;
+}
+
+#footerright {
+    float: right;
+}
